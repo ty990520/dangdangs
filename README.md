@@ -3,7 +3,7 @@
 
 __김연준(팀장), 박현욱, 양소영, 이찬우, 이상현, 박태영, 류영은, 강희정__
 
-<img src="/images/logo.jpeg" width="25%">
+<img src="https://github.com/kimyj7756/dangdangs/blob/master/images/logo.jpeg" width="25%">
 
 ### 0. 개요
 ------------------------------
